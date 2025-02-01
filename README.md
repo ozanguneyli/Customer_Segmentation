@@ -19,7 +19,7 @@ The dataset is located in `data/customers.csv`. It contains the following column
    ```bash
    pip install -r requirements.txt
    ```
-   Open the **clustering.ipynb** file and follow the steps.
+   Open the **Customer_Segmentation.ipynb** file and follow the steps.
 
 
 
