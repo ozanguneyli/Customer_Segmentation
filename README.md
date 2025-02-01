@@ -34,7 +34,7 @@ Customers were grouped based on income and spending habits.
 ![Annual Income vs Spending Score](images/annual_income_vs_spending_score.png)
 ![Customer Segmentation](images/customer_segmentation.png)
 
-# Analysis
+# 📈 Analysis
 
 ## Cluster 0 → Middle-Income, Moderate Spending
 ### This segment includes middle-aged customers with moderate income and spending habits. They are stable, loyal clients who are likely to engage with long-term loyalty programs. This group represents a key demographic for consistent revenue and can be retained with targeted offers and rewards.
