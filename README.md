@@ -31,8 +31,6 @@ Customers were grouped based on income and spending habits.
 
 ## Visualizations:
 
-![Gender Distribution](images/gender_distribution.png)
-![Customer Age Distribution](images/customer_age_distribution.png)
 ![Annual Income vs Spending Score](images/annual_income_vs_spending_score.png)
 ![K-Means Elbow Method](images/k_means_elbow_method.png)
 ![Customer Segmentation](images/customer_segmentation.png)
