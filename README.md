@@ -32,5 +32,4 @@ Customers were grouped based on income and spending habits.
 ## Visualizations:
 
 ![Annual Income vs Spending Score](images/annual_income_vs_spending_score.png)
-![K-Means Elbow Method](images/k_means_elbow_method.png)
 ![Customer Segmentation](images/customer_segmentation.png)
