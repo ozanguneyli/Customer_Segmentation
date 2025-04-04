@@ -50,3 +50,7 @@ Customers were grouped based on income and spending habits.
 
 ## Cluster 4 → Low-Income, Low Spenders (Frugal Customers)
 ### This group includes middle-aged individuals with low income and minimal spending habits. They are highly cost-conscious and would respond best to discounted products, value-driven offers, and economical packages that align with their financial constraints.
+
+## License
+
+[MIT License](LICENSE)
